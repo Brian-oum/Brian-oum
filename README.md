@@ -44,13 +44,13 @@ My interests lie at the intersection of software engineering, backend developmen
 
 I enjoy designing and developing systems that automate business processes, improve operational efficiency and solve real-world problems.
 
-- 💻 Software Engineering & Full-Stack Development
-- 🐍 Backend Development with Python and Django
-- 📊 Data Analytics and Data-Driven Applications
-- 🗄️ Database Design, Management and SQL
-- 🔌 REST API Development and System Integration
-- 🤖 Exploring Artificial Intelligence and Intelligent Systems
-- 🌐 Interested in IoT and technology-driven automation
+-  Software Engineering & Full-Stack Development
+-  Backend Development with Python and Django
+-  Data Analytics and Data-Driven Applications
+-  Database Design, Management and SQL
+-  REST API Development and System Integration
+-  Exploring Artificial Intelligence and Intelligent Systems
+-  Interested in IoT and technology-driven automation
 
 **My goal:** To build reliable, scalable and intelligent software systems that create measurable impact.
 
