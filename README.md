@@ -36,7 +36,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I'm **Brian Ouma**, a Software Developer and ICT student at Maseno University, passionate about engineering practical software solutions and transforming data into meaningful insights.
 
@@ -56,7 +56,7 @@ I enjoy designing and developing systems that automate business processes, impro
 
 ---
 
-## ⚙️ Technical Skills
+##  Technical Skills
 
 ### Programming Languages
 
@@ -96,7 +96,7 @@ I enjoy designing and developing systems that automate business processes, impro
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 I enjoy developing systems that combine software engineering, automation, data management and practical business applications.
 
@@ -136,7 +136,7 @@ A system focused on managing delivery operations, orders and payment workflows.
 
 ---
 
-## 📊 Data Analytics & Data Engineering
+##  Data Analytics & Data Engineering
 
 I'm particularly interested in using data to understand patterns, support decision-making and improve business operations.
 
@@ -154,7 +154,7 @@ My long-term goal is to combine software engineering and analytics to develop sy
 
 ---
 
-## 📈 GitHub Statistics
+##  GitHub Statistics
 
 <div align="center">
 
@@ -170,7 +170,7 @@ My long-term goal is to combine software engineering and analytics to develop sy
 
 ---
 
-## 🏆 GitHub Achievements
+##  GitHub Achievements
 
 <div align="center">
 
@@ -180,7 +180,7 @@ My long-term goal is to combine software engineering and analytics to develop sy
 
 ---
 
-## 📅 Contribution Activity
+##  Contribution Activity
 
 <div align="center">
 
@@ -190,7 +190,7 @@ My long-term goal is to combine software engineering and analytics to develop sy
 
 ---
 
-## 🎓 Certifications & Professional Development
+## Certifications & Professional Development
 
 - Cisco Certified Network Associate (CCNA).
 - ALX AI Career Essentials.
@@ -201,7 +201,7 @@ My long-term goal is to combine software engineering and analytics to develop sy
 
 ---
 
-## 🌱 Currently Learning & Exploring
+##  Currently Learning & Exploring
 
 - Advanced Python and Django architecture.
 - Software design patterns and clean architecture.
@@ -213,7 +213,7 @@ My long-term goal is to combine software engineering and analytics to develop sy
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 I'm open to connecting with developers, collaborating on meaningful projects, learning from other engineers and exploring opportunities in software engineering and data analytics.
 
