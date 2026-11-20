@@ -12,7 +12,7 @@
 </a>
 
 
-<img src="https://komarev.com/ghpvc/?username=Brian-oum&label=PROFILE+VIEWS&color=0A2463&style=flat-square" alt="Profile views"/></div>👨‍💻About Me
+<img src="https://komarev.com/ghpvc/?username=Brian-oum&label=PROFILE+VIEWS&color=0A2463&style=flat-square" alt="Profile views"/></div>About Me
 I'm Brian Ouma, a Full-Stack Software Engineer with 3+ years of hands-on experience developing software solutions across commercial, academic and personal projects.
 
 I specialize in building database-driven web applications, backend systems, RESTful APIs and business automation solutions using Python and Django.
