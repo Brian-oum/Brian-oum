@@ -157,6 +157,7 @@ May 2025 – August 2025 | Nairobi, Kenya
 - Worked with Django, Python, JavaScript and MySQL.
 - Participated in debugging, testing and performance optimization.
 - Applied Git version control and structured documentation practices.
+
 Education & Certifications
 Education
 Bachelor of Science in Information and Communication Technology
