@@ -159,7 +159,7 @@ May 2025 – August 2025 | Nairobi, Kenya
 - Applied Git version control and structured documentation practices.
 
 Education & Certifications
-Education
+
 Bachelor of Science in Information and Communication Technology
 Maseno University | 2022–2026
 Professional Certifications
