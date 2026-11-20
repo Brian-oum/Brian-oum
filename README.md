@@ -162,6 +162,7 @@ Education & Certifications
 
 Bachelor of Science in Information and Communication Technology
 Maseno University | 2022–2026
+
 Professional Certifications
 - Data Analytics — ALX-Africa (September 2025)
 - Professional Foundations — ALX-Africa (June 2025)
